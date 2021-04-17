@@ -1,0 +1,26 @@
+# YouTube
+USER-AGENT,*youtube*
+USER-AGENT,YouTube*
+USER-AGENT,com.google.ios.youtube*
+DOMAIN,youtubei.googleapis.com
+DOMAIN,yt3.ggpht.com
+DOMAIN-SUFFIX,.youtube
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,withyoutube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtube.tv
+DOMAIN-SUFFIX,youtubeeducation.com
+DOMAIN-SUFFIX,youtubefanfest.com
+DOMAIN-SUFFIX,youtubegaming.com
+DOMAIN-SUFFIX,youtubego.co.id
+DOMAIN-SUFFIX,youtubego.com
+DOMAIN-SUFFIX,youtubego.com.br
+DOMAIN-SUFFIX,youtubego.id
+DOMAIN-SUFFIX,youtubei.googleapis.com
+DOMAIN-SUFFIX,youtubekids.com
+DOMAIN-SUFFIX,youtubemobilesupport.com
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,youtube
