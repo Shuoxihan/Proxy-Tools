@@ -1,4 +1,4 @@
- # Paypal
+# Paypal
 USER-AGENT,PayPal*,PayPal
 DOMAIN-SUFFIX,account-paypal.info
 DOMAIN-SUFFIX,account-paypal.net
