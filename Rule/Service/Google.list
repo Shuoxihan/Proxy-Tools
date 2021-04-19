@@ -1,8 +1,5 @@
 # TOTAL: 448
 # Google
-USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
-USER-AGENT,*com.google.Drive*
-USER-AGENT,Google.Drive*
 DOMAIN,lens.l.google.com
 DOMAIN-SUFFIX,.chrome
 DOMAIN-SUFFIX,.dclk
@@ -401,7 +398,7 @@ DOMAIN-SUFFIX,古博.com
 DOMAIN-SUFFIX,咕果.com
 DOMAIN-SUFFIX,谷歌.com
 # GoogleFCM 谷歌推送
-  # 数量：35条
+# 数量：35条
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
 DOMAIN,alt3-mtalk.google.com
