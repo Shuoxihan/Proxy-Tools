@@ -1,5 +1,5 @@
 # Surge
-## 自用分流、去广告、脚本
+## 自用的分流、去广告、脚本
 ## Special Thanks
 [@sve1r](https://github.com/sve1r)  
 [@ConnersHua](https://github.com/ConnersHua)  
