@@ -8,7 +8,7 @@
 
 
 
-## MIT License
+## GNU GENERAL PUBLIC LICENSE
 
 #### Begin license text.  
 #### Copyright <YEAR> <COPYRIGHT HOLDER>  
