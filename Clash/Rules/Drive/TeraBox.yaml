@@ -1,0 +1,4 @@
+payload:
+  # TeraBox
+  - DOMAIN-SUFFIX,dubox.com
+  - DOMAIN-SUFFIX,duboxcdn.com

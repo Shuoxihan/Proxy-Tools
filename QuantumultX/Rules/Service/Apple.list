@@ -1,0 +1,168 @@
+# Apple Domain
+# Apple Websites
+host,api.smoot.apple.cn,Apple
+host,apple.comscoreresearch.com,Apple
+host-suffix,aaplimg.com,Apple
+host-suffix,akadns.net,Apple
+host-suffix,apple-dns.net,Apple
+host-suffix,apple-livephotoskit.com,Apple
+host-suffix,apple-mapkit.com,Apple
+host-suffix,apple.co,Apple
+host-suffix,apple.com,Apple
+host-suffix,me.com,Apple
+host-suffix,apple.com.cdn20.com,Apple
+host-suffix,apple.com.cn,Apple
+host-suffix,apple.com.mwcloudcdn.com,Apple
+host-suffix,apple.com.mwcname.com,Apple
+host-suffix,appsto.re,Apple
+host-suffix,appstore.com,Apple
+host-suffix,cdn-apple.com,Apple
+host-suffix,crashlytics.com,Apple
+host-suffix,digicert.com,Apple
+host-suffix,gsp4-cn.ls.apple.com.edgekey.net,Apple
+host-suffix,itunes.com,Apple
+host-suffix,itunes.com.edgekey.net,Apple
+host-suffix,mzstatic.com,Apple
+host-suffix,store.apple.com.edgekey.net,Apple
+host-suffix,www.apple.com.edgekey.net,Apple
+# > Apple APIs
+# >> Location Service
+host-suffix,ls.apple.com,Apple
+# >> Push Service
+host,init-p01md.apple.com,Apple
+host,init-p01st.push.apple.com,Apple
+host,init-s01st.push.apple.com,Apple
+host-suffix,courierpush-apple.com.akadns.net,Apple
+host-suffix,push.apple.com,Apple
+# > Apple CDNs
+host,updates-http.cdn-apple.com,Apple
+host-suffix,apple-support.akadns.net,Apple
+host-suffix,apple.com.akadns.net,Apple
+host-suffix,apple.com.edgekey.net.globalredir.akadns.net,Apple
+host-suffix,cdn-apple.com.akadns.net,Apple
+host-suffix,isu.apple.com.akadns.net,Apple
+host-suffix,origin-apple.com.akadns.net,Apple
+host-suffix,push-apple.com.akadns.net,Apple
+host-suffix,prod-support.apple-support.akadns.net,Apple
+# >> Other Service
+# apple cidr
+ip-cidr,139.178.128.0/18,Apple
+ip-cidr,144.178.0.0/19,Apple
+ip-cidr,144.178.36.0/22,Apple
+ip-cidr,144.178.48.0/20,Apple
+ip-cidr,17.0.0.0/8,Apple
+ip-cidr,192.35.50.0/24,Apple
+ip-cidr,198.183.17.0/24,Apple
+ip-cidr,205.180.175.0/24,Apple
+ip-cidr,63.92.224.0/19,Apple
+ip-cidr,65.199.22.0/23,Apple
+# Apple Music
+host,aod.itunes.apple.com,Apple
+host,audio-ssl.itunes.apple.com,Apple
+host,audio.itunes.apple.com,Apple
+host,mvod.itunes.apple.com,Apple
+host,streamingaudio.itunes.apple.com,Apple
+host-suffix,blobstore.apple.com,Apple
+host-suffix,music.apple.com,Apple
+host-suffix,play.itunes.apple.com,Apple
+host-suffix,phobos.apple.com,Proxy
+host,hls.itunes.apple.com,Proxy
+host-suffix,radio.itunes.apple.com,Proxy
+host-suffix,radio-activity.itunes.apple.com,Proxy
+host-suffix,radio-services.itunes.apple.com,Proxy
+# > Apple Store
+host,iosapps.itunes.apple.com,Apple
+host,osxapps.itunes.apple.com,Apple
+host-suffix,appsto.re,Proxy
+# > Apple Resources Server
+host,testflight.apple.com,Proxy
+host-suffix,appldnld.apple.com,Apple
+host-suffix,secure-appldnld.apple.com,Apple
+host-suffix,itunesu.assets.itunes.com,Proxy
+# Icloud
+host,www-cdn.icloud.com.akadns.net,Apple
+host-suffix,apple-cloudkit.com,Apple
+host-suffix,apple-icloud.cn,Apple
+host-suffix,appleicloud.cn,Apple
+host-suffix,applemx-icloud.com,Apple
+host-suffix,icloud-apple.cn,Apple
+host-suffix,icloud-content.com,Apple
+host-suffix,icloud-isupport.com,Apple
+host-suffix,icloud.ch,Apple
+host-suffix,icloud.com,Apple
+host-suffix,icloud.com.cn,Apple
+host-suffix,icloud.de,Apple
+host-suffix,icloud.ee,Apple
+host-suffix,icloud.fi,Apple
+host-suffix,icloud.fr,Apple
+host-suffix,icloud.hu,Apple
+host-suffix,icloud.ie,Apple
+host-suffix,icloud.is,Apple
+host-suffix,icloud.jp,Apple
+host-suffix,icloud.lv,Apple
+host-suffix,icloud.net.cn,Apple
+host-suffix,icloud.om,Apple
+host-suffix,icloud.org,Apple
+host-suffix,icloud.pt,Apple
+host-suffix,icloud.ro,Apple
+host-suffix,icloud.se,Apple
+host-suffix,icloud.si,Apple
+host-suffix,icloud.sk,Apple
+host-suffix,icloud.vn,Apple
+host-suffix,icloudads.net,Apple
+host-suffix,icloudapple.cn,Apple
+host-suffix,icloudbox.net,Apple
+host-suffix,icloudbrowser.net,Apple
+host-suffix,icloude.com,Apple
+host-suffix,icloudhome.com,Apple
+host-suffix,icloudmail.net,Apple
+host-suffix,icloudmusic.net,Apple
+host-suffix,icloudnet.net,Apple
+host-suffix,icloudo.com,Apple
+host-suffix,icloudo.de,Apple
+host-suffix,icloudo.net,Apple
+host-suffix,icloudos.de,Apple
+host-suffix,icloudos.net,Apple
+host-suffix,icloudpay.net,Apple
+host-suffix,icloudsecure.net,Apple
+host-suffix,icloudsetup.com,Apple
+host-suffix,icloud-sandbox.com,Apple
+host-suffix,ios-icloud.com,Apple
+host-suffix,myicloud.net,Apple
+host-suffix,mylcloud.net,Apple
+host-suffix,wwwicloud.com,Apple
+# Apple Mail
+host-suffix,mail.icloud.com.cn,Apple
+host-suffix,mail.me.com,Apple
+# AppleTV
+host,np-edge.itunes.apple.com,Apple
+host,play-edge.itunes.apple.com,Apple
+host-suffix,tv.apple.com,Apple
+# Apple News
+host,apple.comscoreresearch.com,Proxy
+host,gateway.icloud.com,Proxy
+host,gspe1-ssl.ls.apple.com,Proxy
+host,news-assets.apple.com,Proxy
+host,news-client.apple.com,Proxy
+host,news-edge.apple.com,Proxy
+host,news-events.apple.com,Proxy
+host-suffix,apple.news,Proxy
+# user-agent,AppleNews*,Proxy
+# user-agent,com.apple.news*,Proxy
+# Other
+host,api-glb-sea.smoot.apple.com,Apple
+host,books.itunes.apple.com,Apple
+host,cvws.icloud-content.com,Apple
+host,developer.apple.com,Apple
+host,itunes.apple.com,Apple
+host,lookup-api.apple.com,Apple
+host,sandbox.itunes.apple.com,Apple
+host-suffix,apps.apple.com,Apple
+host-suffix,itunes-apple.com.akadns.net,Apple
+# 關鍵字匹配
+host-keyword,apple.com.akadns.net,Apple
+host-keyword,icloud,Apple
+host-keyword,icloud.com.akadns.net,Apple
+host-keyword,icoudo,Apple
+host-keyword,icoudos,Apple
+host-keyword,testflight,Apple
