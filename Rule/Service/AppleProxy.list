@@ -1,9 +1,0 @@
-# 需要代理
-DOMAIN,testflight.apple.com
-DOMAIN,hls.itunes.apple.com
-DOMAIN-SUFFIX,phobos.apple.com
-DOMAIN-SUFFIX,radio.itunes.apple.com
-DOMAIN-SUFFIX,radio-activity.itunes.apple.com
-DOMAIN-SUFFIX,radio-services.itunes.apple.com
-DOMAIN-SUFFIX,itunesu.assets.itunes.com
-DOMAIN-SUFFIX,appsto.re
