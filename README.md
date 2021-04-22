@@ -1,5 +1,6 @@
-# Surge
-## 自用的分流、去广告、脚本
+# Proxy Tools
+## 編寫收集整理幾個代理工具分流、去廣告等規則和腳本。
+## 僅自用，勿傳播。
 ## Special Thanks
 [@sve1r](https://github.com/sve1r)  
 [@ConnersHua](https://github.com/ConnersHua)  
