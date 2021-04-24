@@ -1,7 +1,4 @@
 payload:
-  # 屏蔽隐私追踪
-  # ：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-  # ：3005条
   - DOMAIN-SUFFIX,0sbm.consobaby.co.uk
   - DOMAIN-SUFFIX,0x1f4b0.com
   - DOMAIN-SUFFIX,1-cl0ud.com
