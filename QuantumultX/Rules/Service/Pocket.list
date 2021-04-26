@@ -5,3 +5,4 @@ host,pocket-image-cache.com
 host,blog.getpocket.com
 host,blog-assets.getpocket.com
 host-suffix,getpocket.com
+host-suffix,pocketusercache.com
