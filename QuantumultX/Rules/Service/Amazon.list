@@ -1,4 +1,4 @@
-  # > Amazon
+# > Amazon
 host-suffix,a2z.com,Amazon
 host-suffix,aboutamazon.cn,Amazon
 host-suffix,aboutamazon.co.uk,Amazon
@@ -145,21 +145,6 @@ host-suffix,wholeplanetfoundation.org,Amazon
 host-suffix,yamaxun.cn,Amazon
 host-suffix,yamaxun.com,Amazon
 host-suffix,z.cn,Amazon
-ip-cidr,13.32.0.0/15,Amazon
-ip-cidr,13.35.0.0/17,Amazon
-ip-cidr,18.184.0.0/15,Amazon
-ip-cidr,18.194.0.0/15,Amazon
-ip-cidr,18.208.0.0/13,Amazon
-ip-cidr,18.232.0.0/14,Amazon
-ip-cidr,52.200.0.0/13,Amazon
-ip-cidr,52.58.0.0/15,Amazon
-ip-cidr,52.74.0.0/16,Amazon
-ip-cidr,52.77.0.0/16,Amazon
-ip-cidr,52.84.0.0/15,Amazon
-ip-cidr,54.156.0.0/14,Amazon
-ip-cidr,54.226.0.0/15,Amazon
-ip-cidr,54.230.156.0/22,Amazon
-ip-cidr,54.93.0.0/16,Amazon
  # Prime Video 部分
 user-agent,InstantVideo.US*,Amazon
 user-agent,Prime%20Video*,Amazon
@@ -187,3 +172,18 @@ host-suffix,primevideo.info,Amazon
 host-suffix,primevideo.org,Amazon
 host-suffix,primevideo.tv,Amazon
 host-keyword,avoddashs,Amazon
+ip-cidr,13.32.0.0/15,Amazon
+ip-cidr,13.35.0.0/17,Amazon
+ip-cidr,18.184.0.0/15,Amazon
+ip-cidr,18.194.0.0/15,Amazon
+ip-cidr,18.208.0.0/13,Amazon
+ip-cidr,18.232.0.0/14,Amazon
+ip-cidr,52.200.0.0/13,Amazon
+ip-cidr,52.58.0.0/15,Amazon
+ip-cidr,52.74.0.0/16,Amazon
+ip-cidr,52.77.0.0/16,Amazon
+ip-cidr,52.84.0.0/15,Amazon
+ip-cidr,54.156.0.0/14,Amazon
+ip-cidr,54.226.0.0/15,Amazon
+ip-cidr,54.230.156.0/22,Amazon
+ip-cidr,54.93.0.0/16,Amazon
