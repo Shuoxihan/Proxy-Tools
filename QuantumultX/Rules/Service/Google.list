@@ -438,7 +438,6 @@ ip-cidr,142.250.10.188/32,Google
 ip-cidr,142.250.31.188/32,Google
 ip-cidr,142.250.4.188/32,Google
 ip-cidr,142.250.96.188/32,Google
-ip-cidr,172.110.32.0/21,Google
 ip-cidr,172.217.194.188/32,Google
 ip-cidr,172.217.218.188/32,Google
 ip-cidr,172.217.219.188/32,Google
@@ -448,7 +447,6 @@ ip-cidr,173.194.0.0/16,Google
 ip-cidr,173.194.175.188/32,Google
 ip-cidr,173.194.218.188/32,Google
 ip-cidr,209.85.233.188/32,Google
-ip-cidr,216.73.80.0/20,Google
 ip-cidr,64.233.177.188/32,Google
 ip-cidr,64.233.186.188/32,Google
 ip-cidr,64.233.187.188/32,Google
@@ -463,4 +461,3 @@ ip-cidr,74.125.206.188/32,Google
 ip-cidr,74.125.23.188/32,Google
 ip-cidr,74.125.24.188/32,Google
 ip-cidr,74.125.28.188/32,Google
-ip6-cidr,2620:120:e000::/40,Google
