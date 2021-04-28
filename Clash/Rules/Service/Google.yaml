@@ -1,5 +1,5 @@
 payload:
-  # > 域名部分 
+  # Google
   - DOMAIN,alt1-mtalk.google.com
   - DOMAIN,alt2-mtalk.google.com
   - DOMAIN,alt3-mtalk.google.com
@@ -33,6 +33,18 @@ payload:
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,466453.com
   - DOMAIN-SUFFIX,abc.xyz
+  - DOMAIN-SUFFIX,adgoogle.net
+  - DOMAIN-SUFFIX,admeld.com
+  - DOMAIN-SUFFIX,admob.com
+  - DOMAIN-SUFFIX,adsense.com
+  - DOMAIN-SUFFIX,adsensecustomsearchads.com
+  - DOMAIN-SUFFIX,adsenseformobileapps.com
+  - DOMAIN-SUFFIX,adservice.google.com
+  - DOMAIN-SUFFIX,advertisercommunity.com
+  - DOMAIN-SUFFIX,advertiserscommunity.com
+  - DOMAIN-SUFFIX,adwords-community.com
+  - DOMAIN-SUFFIX,adwords.com
+  - DOMAIN-SUFFIX,adwordsexpress.com
   - DOMAIN-SUFFIX,amp.dev
   - DOMAIN-SUFFIX,ampproject.com
   - DOMAIN-SUFFIX,ampproject.net
@@ -65,7 +77,6 @@ payload:
   - DOMAIN-SUFFIX,blink.org
   - DOMAIN-SUFFIX,blogblog.com
   - DOMAIN-SUFFIX,blogger.com
-  - DOMAIN-SUFFIX,blogspot.com
   - DOMAIN-SUFFIX,brocaproject.com
   - DOMAIN-SUFFIX,brotli.org
   - DOMAIN-SUFFIX,bumpshare.com
@@ -196,7 +207,9 @@ payload:
   - DOMAIN-SUFFIX,googl.com
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,google-syndication.com
+  - DOMAIN-SUFFIX,google.berlin
   - DOMAIN-SUFFIX,google.cat
+  - DOMAIN-SUFFIX,google.cn
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,google.dev
   - DOMAIN-SUFFIX,google.net
@@ -219,7 +232,7 @@ payload:
   - DOMAIN-SUFFIX,googlecommerce.com
   - DOMAIN-SUFFIX,googlecompare.co.uk
   - DOMAIN-SUFFIX,googledanmark.com
-  - DOMAIN-SUFFIX,google  - DOMAINs.com
+  - DOMAIN-SUFFIX,googledomains.com
   - DOMAIN-SUFFIX,googledrive.com
   - DOMAIN-SUFFIX,googlee.com
   - DOMAIN-SUFFIX,googleearth.com
@@ -351,6 +364,7 @@ payload:
   - DOMAIN-SUFFIX,schemer.com
   - DOMAIN-SUFFIX,screenwisetrends.com
   - DOMAIN-SUFFIX,screenwisetrendspanel.com
+  - DOMAIN-SUFFIX,sessions.bugsnag.com
   - DOMAIN-SUFFIX,settings.crashlytics.com
   - DOMAIN-SUFFIX,shattered.io
   - DOMAIN-SUFFIX,snapseed.com
@@ -430,10 +444,10 @@ payload:
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   - DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
   - DOMAIN-SUFFIX,xplr.co
-  # > youtube
   - DOMAIN-SUFFIX,youtu.be
   - DOMAIN-SUFFIX,youtube-nocookie.com
   - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,youtube.tv
   - DOMAIN-SUFFIX,youtubeeducation.com
   - DOMAIN-SUFFIX,youtubefanfest.com
   - DOMAIN-SUFFIX,youtubegaming.com

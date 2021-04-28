@@ -1,4 +1,5 @@
 # Dropbox
+user-agent,Dropbox*,Dropbox
 host-suffix,dropbox.com,Dropbox
 host-suffix,dropbox.tech,Dropbox
 host-suffix,db.tt,Dropbox

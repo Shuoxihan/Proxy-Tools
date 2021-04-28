@@ -1,4 +1,5 @@
 # Dropbox
+USER-AGENT,Dropbox*
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropbox.tech
 DOMAIN-SUFFIX,db.tt

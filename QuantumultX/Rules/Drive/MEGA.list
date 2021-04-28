@@ -1,3 +1,6 @@
+# MEGA
+user-agent,MEGAiOS*,MEGA
+user-agent,MEGA*,MEGA
 host-suffix,mega.co.nz,MEGA
 host-suffix,mega.io,MEGA
 host-suffix,mega.nz,MEGA
