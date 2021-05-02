@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-KEYWORD,admarvel
   - DOMAIN-KEYWORD,admaster
+  - DOMAIN-KEYWORD,adlaunch
   - DOMAIN-KEYWORD,adsage
   - DOMAIN-KEYWORD,adsensor
   - DOMAIN-KEYWORD,adservice
@@ -1146,6 +1147,8 @@ payload:
   - DOMAIN-SUFFIX,logger.qingting.fm
   - DOMAIN-SUFFIX,s.qd.qingting.fm
   - DOMAIN-SUFFIX,s.qd.qingtingfm.com
+  - DOMAIN-SUFFIX,lkme.cc
+  - DOMAIN-SUFFIX,adlaunch.qingting.fm
   - DOMAIN-KEYWORD,omgmtaw
   - DOMAIN,adsmind.apdcdn.tc.qq.com
   - DOMAIN,adsmind.gdtimg.com
