@@ -2,6 +2,7 @@ payload:
   - DOMAIN-KEYWORD,admarvel
   - DOMAIN-KEYWORD,admaster
   - DOMAIN-KEYWORD,adlaunch
+  - DOMAIN-KEYWORD,adash  
   - DOMAIN-KEYWORD,adsage
   - DOMAIN-KEYWORD,adsensor
   - DOMAIN-KEYWORD,adservice
