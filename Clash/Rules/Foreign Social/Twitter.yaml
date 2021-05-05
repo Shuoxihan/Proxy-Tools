@@ -1,5 +1,6 @@
 payload:
-# > Twitter
+  # > Twitter
+  - DOMAIN-SUFFIX,ads-twitter.com # 可自行添加去广告分流屏蔽这类广告域名
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,pscp.tv
   - DOMAIN-SUFFIX,t.co
@@ -11,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,twitpic.com
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,twitter.jp
+  - DOMAIN-SUFFIX,twitterinc.com
   - DOMAIN-SUFFIX,twitteroauth.com
   - DOMAIN-SUFFIX,twitterstat.us
   - DOMAIN-SUFFIX,twtrdns.net

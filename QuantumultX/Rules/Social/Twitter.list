@@ -1,5 +1,5 @@
 # > Twitter
-host-suffix,ads-twitter.com,REJECT
+host-suffix,ads-twitter.com,Twitter  # 可自行添加去广告分流屏蔽这类广告域名
 host-suffix,periscope.tv,Twitter
 host-suffix,pscp.tv,Twitter
 host-suffix,t.co,Twitter
@@ -11,6 +11,7 @@ host-suffix,twimg.org,Twitter
 host-suffix,twitpic.com,Twitter
 host-suffix,twitter.com,Twitter
 host-suffix,twitter.jp,Twitter
+host-suffix,twitterinc.com,Twitter
 host-suffix,twitteroauth.com,Twitter
 host-suffix,twitterstat.us,Twitter
 host-suffix,twtrdns.net,Twitter

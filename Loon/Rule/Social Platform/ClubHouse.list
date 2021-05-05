@@ -1,12 +1,12 @@
 # clubhouse域名和ip
-DOMAIN,clubhouse.pubnub.com
-DOMAIN,clubhouseprod.s3.amazonaws.com
-DOMAIN-SUFFIX,clubhouseapi.com
-DOMAIN-SUFFIX,joinclubhouse.com
 DOMAIN,ap-oversea-tls.agora.io
 DOMAIN,ap-oversea.agora.io
 DOMAIN,ap-oversea2.agora.io
+DOMAIN,clubhouse.pubnub.com
+DOMAIN,clubhouseprod.s3.amazonaws.com
 DOMAIN,report-oversea.agora.io
+DOMAIN-SUFFIX,clubhouseapi.com
+DOMAIN-SUFFIX,joinclubhouse.com
 IP-CIDR,103.59.49.10/32,no-resolve
 IP-CIDR,103.65.41.130/32,no-resolve
 IP-CIDR,103.65.41.132/32,no-resolve
@@ -37,6 +37,7 @@ IP-CIDR,129.227.57.146/31,no-resolve
 IP-CIDR,129.227.71.203/32,no-resolve
 IP-CIDR,13.230.60.35/32,no-resolve
 IP-CIDR,148.153.126.146/31,no-resolve
+IP-CIDR,148.153.126.147/32,no-resolve
 IP-CIDR,148.153.172.73/32,no-resolve
 IP-CIDR,148.153.172.74/31,no-resolve
 IP-CIDR,148.153.172.76/31,no-resolve
@@ -65,6 +66,7 @@ IP-CIDR,164.52.6.23/32,no-resolve
 IP-CIDR,164.52.6.24/31,no-resolve
 IP-CIDR,199.190.44.36/31,no-resolve
 IP-CIDR,202.181.136.106/31,no-resolve
+IP-CIDR,202.181.136.107/32,no-resolve
 IP-CIDR,202.181.136.108/32,no-resolve
 IP-CIDR,202.181.136.234/32,no-resolve
 IP-CIDR,202.226.25.162/32,no-resolve
