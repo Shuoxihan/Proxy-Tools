@@ -1,11 +1,11 @@
 # Proxy Tools
 ## 編寫收集整理幾個代理工具分流、去廣告等規則和腳本。
-## <font color=red>僅自用，勿傳播。</font>
+## 僅自用，勿傳播。
 ## Special Thanks
-[@sve1r](https://github.com/sve1r)  
-[@ConnersHua](https://github.com/ConnersHua)  
-[@lhie1](https://github.com/lhie1)  
-[@leosam2048](https://github.com/leosam2048)  
+* [@sve1r](https://github.com/sve1r)  
+* [@ConnersHua](https://github.com/ConnersHua)  
+* [@lhie1](https://github.com/lhie1)  
+* [@leosam2048](https://github.com/leosam2048)  
 
 
 
