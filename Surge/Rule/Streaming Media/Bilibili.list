@@ -4,6 +4,9 @@ USER-AGENT,Bilibili*
 USER-AGENT,bili*
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,biligo.com
+DOMAIN-SUFFIX,biliintl.com
+DOMAIN-SUFFIX,upos-bstar-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,b23.tv
 DOMAIN-SUFFIX,baka.im
 DOMAIN-SUFFIX,bigfun.cn

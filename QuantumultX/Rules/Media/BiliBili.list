@@ -1,9 +1,12 @@
-# > BiliBili
+# Bilbili
 user-agent,*bili*,BiliBili
 user-agent,Bilibili*,BiliBili
 user-agent,bili*,BiliBili
 host-suffix,acg.tv,BiliBili
 host-suffix,acgvideo.com,BiliBili
+host-suffix,biligo.com,BiliBili
+host-suffix,biliintl.com,BiliBili
+host-suffix,upos-bstar-mirrorakam.akamaized.net,BiliBili
 host-suffix,b23.tv,BiliBili
 host-suffix,baka.im,BiliBili
 host-suffix,bigfun.cn,BiliBili
