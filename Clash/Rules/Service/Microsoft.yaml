@@ -1,8 +1,5 @@
 payload:
-  # Microsoft
-  - PROCESS-NAME,onedrive
-  - PROCESS-NAME,onedriveupdater
-  - DOMAIN-SUFFIX,1drv.com
+  # microsoft
   - DOMAIN-SUFFIX,a-msedge.net
   - DOMAIN-SUFFIX,a1158.g.akamai.net
   - DOMAIN-SUFFIX,a122.dscg3.akamai.net
@@ -15,7 +12,6 @@ payload:
   - DOMAIN-SUFFIX,aka.ms
   - DOMAIN-SUFFIX,akadns.net
   - DOMAIN-SUFFIX,ankarazirvesi2018.com
-  - DOMAIN-SUFFIX,api.onedrive.com
   - DOMAIN-SUFFIX,api-extractor.com
   - DOMAIN-SUFFIX,apisof.net
   - DOMAIN-SUFFIX,appcenter.ms
@@ -163,7 +159,7 @@ payload:
   - DOMAIN-SUFFIX,latampartneruniversity.com
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,live.net
-  - DOMAIN-SUFFIX,livefilestore.com
+  - DOMAIN-SUFFIX,livetileedge.dsx.mp.microsoft.com.edgekey.net
   - DOMAIN-SUFFIX,livingyourambition.com
   - DOMAIN-SUFFIX,localytics.com
   - DOMAIN-SUFFIX,lync.com
@@ -302,9 +298,6 @@ payload:
   - DOMAIN-SUFFIX,officeppe.net
   - DOMAIN-SUFFIX,omniroot.com
   - DOMAIN-SUFFIX,onecollector.cloudapp.aria
-  - DOMAIN-SUFFIX,oneclient.sfx.ms  
-  - DOMAIN-SUFFIX,onedrive.com
-  - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN-SUFFIX,onenote.com
   - DOMAIN-SUFFIX,onenote.net
   - DOMAIN-SUFFIX,onestore.ms
@@ -324,7 +317,6 @@ payload:
   - DOMAIN-SUFFIX,pixapp.net
   - DOMAIN-SUFFIX,playfabapi.cn
   - DOMAIN-SUFFIX,playfabcn.com
-  - DOMAIN-SUFFIX,photos.live.com
   - DOMAIN-SUFFIX,poshtestgallery.com
   - DOMAIN-SUFFIX,powerappscdn.net
   - DOMAIN-SUFFIX,powerautomate.com
@@ -350,13 +342,9 @@ payload:
   - DOMAIN-SUFFIX,sfbassets.com
   - DOMAIN-SUFFIX,sfbassets.net
   - DOMAIN-SUFFIX,sfx.ms
-  - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN-SUFFIX,sharepointonline.com
   - DOMAIN-SUFFIX,skype.com
   - DOMAIN-SUFFIX,skypeassets.com
   - DOMAIN-SUFFIX,skypeforbusiness.com
-  - DOMAIN-SUFFIX,skydrive.wns.windows.com
-  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
   - DOMAIN-SUFFIX,sprinklesapp.com
   - DOMAIN-SUFFIX,sqlserveronlinux.com
   - DOMAIN-SUFFIX,staffhub.ms
@@ -364,8 +352,6 @@ payload:
   - DOMAIN-SUFFIX,statics-marketingsites-eus-ms-com.akamaized.net
   - DOMAIN-SUFFIX,statics-marketingsites-neu-ms-com.akamaized.net
   - DOMAIN-SUFFIX,statics-marketingsites-wcus-ms-com.akamaized.net
-  - DOMAIN-SUFFIX,storage.live.com
-  - DOMAIN-SUFFIX,storage.msn.com
   - DOMAIN-SUFFIX,successwithteams.com
   - DOMAIN-SUFFIX,surface.com
   - DOMAIN-SUFFIX,svc.ms
@@ -425,13 +411,11 @@ payload:
   - DOMAIN-SUFFIX,xbx.lv
   - DOMAIN-SUFFIX,yammer.com
   - DOMAIN-SUFFIX,yammerusercontent.com
-  - DOMAIN-KEYWORD,1drv
-  - DOMAIN-KEYWORD,onedrive
+  - DOMAIN-KEYWORD,microsoft
+  # Microsoft
   - DOMAIN-KEYWORD,onenote
   - DOMAIN-KEYWORD,outlook
-  - DOMAIN-KEYWORD,skydrive
   - DOMAIN-KEYWORD,skype
-  - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,microsoft-online
   - DOMAIN-KEYWORD,microsofthouse
   - DOMAIN-KEYWORD,microsoftnews

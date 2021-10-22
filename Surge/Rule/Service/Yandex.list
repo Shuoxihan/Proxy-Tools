@@ -24,7 +24,6 @@ DOMAIN-SUFFIX,yandex.tm
 DOMAIN-SUFFIX,yandex.ua
 DOMAIN-SUFFIX,yandex.uz
 DOMAIN-SUFFIX,yastatic.net
-DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,webvisor.com
 DOMAIN-SUFFIX,yadro.ru
 DOMAIN-SUFFIX,rambler.ru
@@ -45,6 +44,16 @@ DOMAIN,yandex-question.naydex.net
 DOMAIN,kinopoisk-ru.naydex.net
 DOMAIN,yandex-pogoda.clstorage.net
 DOMAIN-SUFFIX,naydex.net
+DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
+DOMAIN-SUFFIX,ya.ru
+DOMAIN-SUFFIX,yandex
+DOMAIN-SUFFIX,yandex.aero
+DOMAIN-SUFFIX,yandex.com.ru
+DOMAIN-SUFFIX,yandex.com.ua
+DOMAIN-SUFFIX,yandex.de
+DOMAIN-SUFFIX,yandex.eu
+DOMAIN-SUFFIX,yandex.fi
+DOMAIN-SUFFIX,yandex.jobs
 IP-CIDR,100.43.64.0/19,no-resolve
 IP-CIDR,141.8.128.0/18,no-resolve
 IP-CIDR,178.154.128.0/18,no-resolve

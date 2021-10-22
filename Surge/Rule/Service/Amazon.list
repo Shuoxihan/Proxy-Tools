@@ -1,4 +1,11 @@
 # > Amazon
+USER-AGENT,InstantVideo.US*
+USER-AGENT,Prime%20Video*
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net
+DOMAIN,d22qjgkvxw22r6.cloudfront.net
+DOMAIN,d25xi40x97liuc.cloudfront.net
+DOMAIN,d27xxe7juh1us6.cloudfront.net
+DOMAIN,dmqdd6hw24ucf.cloudfront.net
 DOMAIN-SUFFIX,a2z.com
 DOMAIN-SUFFIX,aboutamazon.cn
 DOMAIN-SUFFIX,aboutamazon.co.uk
@@ -15,6 +22,8 @@ DOMAIN-SUFFIX,aboutamazon.pl
 DOMAIN-SUFFIX,acmvalidations.com
 DOMAIN-SUFFIX,acmvalidationsaws.com
 DOMAIN-SUFFIX,aesworkshops.com
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,alexa.com
 DOMAIN-SUFFIX,alexafund.cn
 DOMAIN-SUFFIX,alexafund.com.cn
@@ -74,9 +83,14 @@ DOMAIN-SUFFIX,amazonnow.cn
 DOMAIN-SUFFIX,amazonnow.com.cn
 DOMAIN-SUFFIX,amazonpay.com
 DOMAIN-SUFFIX,amazonpay.in
+DOMAIN-SUFFIX,amazonprimevideo.cn
+DOMAIN-SUFFIX,amazonprimevideo.com.cn
+DOMAIN-SUFFIX,amazonprimevideos.com
 DOMAIN-SUFFIX,amazonsdi.com
 DOMAIN-SUFFIX,amazonstudiosguilds.com
 DOMAIN-SUFFIX,amazontrust.com
+DOMAIN-SUFFIX,amazonvideo.cc
+DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,amazonvideodirect.com
 DOMAIN-SUFFIX,amazonworkdocs.cn
 DOMAIN-SUFFIX,amazonworkdocs.com
@@ -88,7 +102,10 @@ DOMAIN-SUFFIX,amzn.to
 DOMAIN-SUFFIX,amznl.com
 DOMAIN-SUFFIX,assoc-amazon.cn
 DOMAIN-SUFFIX,associates-amazon.com
+DOMAIN-SUFFIX,atv-ps.amazon.com
 DOMAIN-SUFFIX,audible.com
+DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
+DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,aws-iot-hackathon.com
 DOMAIN-SUFFIX,awsautopilot.com
 DOMAIN-SUFFIX,awsautoscaling.com
@@ -104,14 +121,20 @@ DOMAIN-SUFFIX,awssecworkshops.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,awsthinkbox.com
 DOMAIN-SUFFIX,awstrust.com
+DOMAIN-SUFFIX,boxofficemojo.com
 DOMAIN-SUFFIX,cdkworkshop.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,containersonaws.com
 DOMAIN-SUFFIX,createspace.com
 DOMAIN-SUFFIX,elasticbeanstalk.com
+DOMAIN-SUFFIX,fls-na.amazon.com
 DOMAIN-SUFFIX,gameon-masters.com
 DOMAIN-SUFFIX,gdansk-amazon.com
 DOMAIN-SUFFIX,images-amazon.com
+DOMAIN-SUFFIX,imdb
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,imdb.to
+DOMAIN-SUFFIX,kindle
 DOMAIN-SUFFIX,kindle.cn
 DOMAIN-SUFFIX,kindle.co.jp
 DOMAIN-SUFFIX,kindle.co.uk
@@ -131,47 +154,36 @@ DOMAIN-SUFFIX,kindleoasis.org
 DOMAIN-SUFFIX,kindleoasis.us
 DOMAIN-SUFFIX,kindleoasisnews.com
 DOMAIN-SUFFIX,kindleproject.com
+DOMAIN-SUFFIX,llnwd.net
+# primevideo
+DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX,media-imdb.com
+DOMAIN-SUFFIX,prime-video.com
 DOMAIN-SUFFIX,primeday.cn
 DOMAIN-SUFFIX,primeday.com.cn
 DOMAIN-SUFFIX,primeday.info
+DOMAIN-SUFFIX,primevideo.cc
+DOMAIN-SUFFIX,primevideo.com
+DOMAIN-SUFFIX,primevideo.info
+DOMAIN-SUFFIX,primevideo.org
+DOMAIN-SUFFIX,primevideo.tv
 DOMAIN-SUFFIX,siege-amazon.com
 DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,thinkboxsoftware.com
 DOMAIN-SUFFIX,ueberamazon.de
+DOMAIN-SUFFIX,wfm.com
 DOMAIN-SUFFIX,wholecitiesfoundation.org
+DOMAIN-SUFFIX,wholefoods.com
+DOMAIN-SUFFIX,wholefoodsmarket.co.uk
 DOMAIN-SUFFIX,wholefoodsmarket.com
 DOMAIN-SUFFIX,wholekidsfoundation.org
 DOMAIN-SUFFIX,wholeplanetfoundation.org
 DOMAIN-SUFFIX,yamaxun.cn
 DOMAIN-SUFFIX,yamaxun.com
 DOMAIN-SUFFIX,z.cn
-# Prime Video 部分
-# user-agent,InstantVideo.US*
-# user-agent,Prime%20Video*
-DOMAIN,d1v5ir2lpwr8os.cloudfront.net
-DOMAIN,d22qjgkvxw22r6.cloudfront.net
-DOMAIN,d25xi40x97liuc.cloudfront.net
-DOMAIN,d27xxe7juh1us6.cloudfront.net
-DOMAIN,dmqdd6hw24ucf.cloudfront.net
-DOMAIN-SUFFIX,aiv-cdn.net
-DOMAIN-SUFFIX,aiv-delivery.net
-DOMAIN-SUFFIX,amazonprimevideo.cn
-DOMAIN-SUFFIX,amazonprimevideo.com.cn
-DOMAIN-SUFFIX,amazonprimevideos.com
-DOMAIN-SUFFIX,amazonvideo.cc
-DOMAIN-SUFFIX,amazonvideo.com
-DOMAIN-SUFFIX,atv-ps.amazon.com
-DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
-DOMAIN-SUFFIX,fls-na.amazon.com
-DOMAIN-SUFFIX,llnwd.net
-DOMAIN-SUFFIX,media-amazon.com
-DOMAIN-SUFFIX,prime-video.com
-DOMAIN-SUFFIX,primevideo.cc
-DOMAIN-SUFFIX,primevideo.com
-DOMAIN-SUFFIX,primevideo.info
-DOMAIN-SUFFIX,primevideo.org
-DOMAIN-SUFFIX,primevideo.tv
+# keyword
 DOMAIN-KEYWORD,avoddashs
+# ip
 IP-CIDR,13.32.0.0/15,no-resolve
 IP-CIDR,13.35.0.0/17,no-resolve
 IP-CIDR,18.184.0.0/15,no-resolve

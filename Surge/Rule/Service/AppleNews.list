@@ -1,4 +1,4 @@
-# 需要通过代理访问
+# 需要通过代理访问，已全部包含在apple list中
 # Apple News
 USER-AGENT,AppleNews*
 USER-AGENT,com.apple.news*

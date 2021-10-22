@@ -1,4 +1,5 @@
-USER-AGENT,DPlus*,Discovery Plus
+USER-AGENT,DPlus*
+USER-AGENT,discovery+*
 DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com
 DOMAIN-SUFFIX,disco-api.com
 DOMAIN-SUFFIX,discoveryplus.com
@@ -7,3 +8,6 @@ DOMAIN-SUFFIX,getblueshift.com
 DOMAIN-SUFFIX,litix.io
 DOMAIN-SUFFIX,mobile-collector.newrelic.com
 DOMAIN-SUFFIX,uplynk.com
+DOMAIN-SUFFIX,discoveryplus.co.uk
+DOMAIN-SUFFIX,discoveryplus.in
+DOMAIN-SUFFIX,dnitv.com
