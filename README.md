@@ -2,6 +2,7 @@
 ## 編寫收集整理幾個代理工具分流、去廣告等規則和腳本。
 ## <font color=red>僅自用，勿傳播。</font>
 ## Special Thanks
+[@blackmatrix7](https://github.com/blackmatrix7)
 [@sve1r](https://github.com/sve1r)  
 [@ConnersHua](https://github.com/ConnersHua)  
 [@lhie1](https://github.com/lhie1)  
