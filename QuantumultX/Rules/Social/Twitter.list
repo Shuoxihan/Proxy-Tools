@@ -1,5 +1,5 @@
 # > Twitter
-host-suffix,ads-twitter.com,Twitter  # 可自行添加去广告分流屏蔽这类广告域名
+host-suffix,ads-twitter.com,Twitter 
 host-suffix,periscope.tv,Twitter
 host-suffix,pscp.tv,Twitter
 host-suffix,t.co,Twitter
