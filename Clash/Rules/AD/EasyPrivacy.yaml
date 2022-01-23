@@ -2478,7 +2478,7 @@ payload:
   - DOMAIN-SUFFIX,top.elec.ru
   - DOMAIN-SUFFIX,top.skyzone.ro
   - DOMAIN-SUFFIX,top.wn.com
-  - DOMAIN-SUFFIX,torimochi.line-apps.com
+#  - DOMAIN-SUFFIX,torimochi.line-apps.com
   - DOMAIN-SUFFIX,toru0vane.com
   - DOMAIN-SUFFIX,toruk.tanx.com
   - DOMAIN-SUFFIX,tp.deawm.com

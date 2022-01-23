@@ -2477,7 +2477,7 @@ HOST-SUFFIX,top-fwz1.mail.ru,REJECT
 HOST-SUFFIX,top.elec.ru,REJECT
 HOST-SUFFIX,top.skyzone.ro,REJECT
 HOST-SUFFIX,top.wn.com,REJECT
-HOST-SUFFIX,torimochi.line-apps.com,REJECT
+# HOST-SUFFIX,torimochi.line-apps.com,REJECT
 HOST-SUFFIX,toru0vane.com,REJECT
 HOST-SUFFIX,toruk.tanx.com,REJECT
 HOST-SUFFIX,tp.deawm.com,REJECT
