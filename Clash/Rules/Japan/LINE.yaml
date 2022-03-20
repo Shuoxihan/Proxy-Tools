@@ -2,6 +2,7 @@ payload:
   # > LINE
   - PROCESS-NAME,jp.naver.line.android
   - PROCESS-NAME,jp.linecorp.linemusic.android
+  - DOMAIN,nelo2-col.linecorp.com
   - DOMAIN-SUFFIX,lin.ee
   - DOMAIN-SUFFIX,line.naver.jp
   - DOMAIN-SUFFIX,line.me
